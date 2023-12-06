@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "730994569511",
+    "project_id": "glamgig-f0a17",
+    "storage_bucket": "glamgig-f0a17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730994569511:android:b86f0569f466ba8c9a3902",
+        "android_client_info": {
+          "package_name": "com.softwareeng.glamgig.stylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730994569511-ia4a6u1hqc8h5bs6inompfbdr52954or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXGYpF-3xKXWL3SG43Sc4h0q43KHizE_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730994569511-ia4a6u1hqc8h5bs6inompfbdr52954or.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730994569511-3pk83krnauahokjs1qovs3g633icn6g7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.salonUser.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
